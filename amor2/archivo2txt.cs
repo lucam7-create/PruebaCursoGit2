@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace amor2
 {
-    internal class Class2
+    internal class archivo2txt
     {
     }
 }
