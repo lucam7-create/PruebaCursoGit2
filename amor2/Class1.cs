@@ -10,6 +10,7 @@ namespace amor2
     {
         public Class1() {
             Console.WriteLine("Gracias DIOS");
+            Console.WriteLine("Hola mundo");
         }
     }
 }
