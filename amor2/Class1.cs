@@ -11,6 +11,7 @@ namespace amor2
         public Class1() {
             Console.WriteLine("Gracias DIOS");
             Console.WriteLine("Hola mundo");
+            Console.WriteLine("Hola mundo desde la interfaz grafica de github");//agregue un cw desde la consola remota
         }
     }
 }
