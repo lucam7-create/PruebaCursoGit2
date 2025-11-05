@@ -8,5 +8,8 @@ namespace amor2
 {
     internal class Class1
     {
+        public Class1() {
+            Console.WriteLine("Gracias DIOS");
+        }
     }
 }
