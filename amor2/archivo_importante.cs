@@ -11,7 +11,7 @@ namespace amor2
         public void MostrarMensaje()
         {
             Console.WriteLine("Este es un archivo importante en el proyecto amor2.1.2");
-            Console.WriteLine("Asegúrate de revisarlo cuidadosamente.");
+          
         }
     }
 }
